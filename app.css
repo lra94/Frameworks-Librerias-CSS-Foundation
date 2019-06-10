@@ -1,0 +1,38 @@
+body{
+	background: url(../img/fondo.jpg);
+}
+.main{
+	background-color: transparent;
+}
+.izquierda{
+	background-color: #ffffff;
+}
+
+.derecha{
+	background-color: #D1F1FF;
+}
+
+.li{
+	background-color: #5A7FFF;
+}
+
+.li:hover{
+	background-color: #5ACCFF;
+}
+
+.a{
+	color: #ffffff;
+}
+
+.coment{
+	border-radius: 10%;
+	border: 0.9px solid black;
+	background-color: #ffffff;
+}
+
+
+@media only screen and (min-width: 768px) {
+  .t{
+  	padding-top: 175px;
+  }
+}
